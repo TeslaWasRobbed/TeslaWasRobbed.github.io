@@ -1,6 +1,6 @@
 ---
 title: "Education"
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+date: 2023-03-24
 categories: education
 tags: education
 ---
