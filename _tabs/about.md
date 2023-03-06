@@ -3,14 +3,12 @@
 icon: fas fa-info-circle
 order: 4
 ---
-
-# About Me
-
 Hi there! My name is Nathan and I'm currently a cyber security student. I have always been interested in technology and how it can be used to solve real-world problems. Cyber security is a fascinating field to me because it combines my love for technology with the need to protect sensitive information from malicious actors.
 Education
 
 I am currently pursuing a degree in cyber security from Cardiff Metropolitan University. Through my coursework, I have gained a solid foundation in topics such as network security, cryptography, and ethical hacking. I am also working on several projects outside of my coursework to further develop my skills and knowledge.
-Experience
+
+# Experience
 
 Here are some of the skills I have developed through my studies and experience:
 
