@@ -1,9 +1,9 @@
 ---
-title: "Education"
-date: 2023-03-06
-categories: education
-tags: education
+# the default layout is 'page'
+icon: fas fa-info-circle
+order: 5
 ---
+
 ## Cardiff Metropolitan University
 I am currently a student at Cardiff Metropolitan University studying BSc (Hons) Cyber Security. I have been studying the course for two years and have found it to be very interesting and rewarding. The course is split into three years, each year containing six modules. The modules are as follows:
 
@@ -33,8 +33,3 @@ I have found the following resources to be very useful in my studies:
 * [TryHackMe](https://tryhackme.com/)
 * [HackTheBox](https://www.hackthebox.eu/)
 * [Udemy](https://www.udemy.com/)
-
-
-
-
-    
